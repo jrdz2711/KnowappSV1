@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "66761717474",
+    "firebase_url": "https://knowappsv1.firebaseio.com",
+    "project_id": "knowappsv1",
+    "storage_bucket": "knowappsv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66761717474:android:62a93c6400c2cbf1",
+        "android_client_info": {
+          "package_name": "com.example.knowappsv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66761717474-vlq1tvp8h24uphue9dl0373krv62oec1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPOryxgtYwAa1AFb6o1sXySbCj6gJo35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66761717474-vlq1tvp8h24uphue9dl0373krv62oec1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
